@@ -2,9 +2,9 @@
 
 ### I'm a Grade 10 student who likes to:
 ---------------------------
-✅ Create
-✅ Code
-🤙 Just learn and have a good time!
+✅ Create  
+✅ Code  
+🤙 Just learn and have a good time!  
 
 <!--
 **blahoo/blahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
