@@ -7,7 +7,6 @@
 - 🙅 Likes hamburgers without cheese
 - 🥅 Goal: Life life with no regrets 🤙  
 &nbsp;  
-&nbsp;  
 > ***"It's not about what you know, but how you use it"***
 <!--
 **blahoo/blahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
