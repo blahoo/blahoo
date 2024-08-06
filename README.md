@@ -1,6 +1,6 @@
 # Hi there, I'm Blahoo👋
 
-### I'm a Grade 10 student who likes to:
+### I'm a Grade 11 student who likes to:
 ---
 - ✅ Likes to create  
 - ✅ Likes to code  
