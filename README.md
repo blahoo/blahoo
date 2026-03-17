@@ -1,13 +1,6 @@
-# Hi there, I'm Blahoo👋
+# Hi there, I'm Greg👋
 
-### I'm a Grade 11 student who likes to:
----
-- ✅ Likes to create  
-- ✅ Likes to code  
-- 🙅 Likes hamburgers without cheese
-- 🥅 Goal: Life life with no regrets 🤙  
-&nbsp;  
-> ***"It's not about what you know, but how you use it"***
+### Currently an hs senior 
 <!--
 **blahoo/blahoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
